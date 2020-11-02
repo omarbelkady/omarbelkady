@@ -9,7 +9,7 @@
 
 <br>
 <a href="https://github.com/omarbelkady/GitHub-FrontPage">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarbelkady&show_icons=true&theme=radical" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=omarbelkady&show_icons=true&theme=radical" />
 </a>
 </div>
 
