@@ -14,7 +14,7 @@
     <tbody>
       <tr>
         <td align = "center">
-          <img src = "src/java.png" width ="35px" height="35px">
+          <img src = "src/java(1).png" width ="35px" height="35px">
           <img src = "src/python.png" width ="35px" height="35px">
           <img src = "src/cpp.png" width ="35px" height="35px">
         </td>
