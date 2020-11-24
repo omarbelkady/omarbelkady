@@ -59,24 +59,6 @@
         </td>
       </tr>
     </tbody>
-    <tbody>
-      <tr>
-        <td align = "center">
-          <img src = "../src/intellij.png" width ="35px" height="35px">
-          <img src = "../src/pycharm.png" width ="35px" height="35px">
-          <img src = "../src/vscode.png" width ="35px" height="35px">
-          <img src = "../src/vs.png" width ="35px" height="35px">
-        </td>
-        <td align = "center">
-          <img src = "../src/sublime.png" width ="35px" height="35px">
-        </td>
-        <td  align = "center">
-          <img src = "../src/git.png" width ="35px" height="35px">
-          <img src = "../src/terminal.png" width ="35px" height="35px">
-          <img src = "../src/nodejs.png" width ="35px" height="35px">
-        </td>
-      </tr>
-    </tbody>
   </table>
 <div align = "center">
 
