@@ -15,22 +15,22 @@
       <tr>
         <td align = "center">
           <img src = "src/java (1).png" width ="35px" height="35px">
-          <img src = "src/python.png" width ="35px" height="35px">
-          <img src = "src/cpp.png" width ="35px" height="35px">
+          <img src = "src/python (1).png" width ="35px" height="35px">
+          <img src = "src/cpp (1).png" width ="35px" height="35px">
         </td>
         <td  align = "center">
-          <img src = "src/mongodb.png" width ="35px" height="35px">
+          <img src = "src/mongodb (1).png" width ="35px" height="35px">
         </td>
         <td  align = "center">
-          <img src = "../src/springboot.png" width ="35px" height="35px">
-          <img src = "../src/express.png" width ="35px" height="35px">
-          <img src = "../src/vuejs.png" width ="35px" height="35px">
-          <img src = "../src/react.png" width ="35px" height="35px">
+          <img src = "src/springboot (1).png" width ="35px" height="35px">
+          <img src = "src/express (1).png" width ="35px" height="35px">
+          <img src = "src/vuejs (1).png" width ="35px" height="35px">
+          <img src = "src/react (1).png" width ="35px" height="35px">
         </td>
         <td align = "center">
-          <img src = "../src/html.png" width ="35px" height="35px">
-          <img src = "../src/css.png" width ="35px" height="35px">
-          <img src = "../src/javascript.png" width ="35px" height="35px">
+          <img src = "src/html (1).png" width ="35px" height="35px">
+          <img src = "src/css (1).png" width ="35px" height="35px">
+          <img src = "src/javascript (1).png" width ="35px" height="35px">
         </td>
       </tr>
     </tbody>
@@ -45,17 +45,17 @@
     <tbody>
       <tr>
         <td align = "center">
-          <img src = "../src/intellij.png" width ="35px" height="35px">
-          <img src = "../src/pycharm.png" width ="35px" height="35px">
-          <img src = "../src/vscode.png" width ="35px" height="35px">
+          <img src = "src/intellij (1).png" width ="35px" height="35px">
+          <img src = "src/pycharm (1).png" width ="35px" height="35px">
+          <img src = "src/vscode (1).png" width ="35px" height="35px">
         </td>
         <td align = "center">
-          <img src = "../src/sublime.png" width ="35px" height="35px">
+          <img src = "src/sublime (1).png" width ="35px" height="35px">
         </td>
         <td  align = "center">
-          <img src = "../src/git.png" width ="35px" height="35px">
-          <img src = "../src/terminal.png" width ="35px" height="35px">
-          <img src = "../src/nodejs.png" width ="35px" height="35px">
+          <img src = "src/git (1).png" width ="35px" height="35px">
+          <img src = "src/terminal (1).png" width ="35px" height="35px">
+          <img src = "src/nodejs (1).png" width ="35px" height="35px">
         </td>
       </tr>
     </tbody>
