@@ -14,12 +14,12 @@
     <tbody>
       <tr>
         <td align = "center">
-          <img src = "../omarbelkady/src/java.png" width ="35px" height="35px">
-          <img src = "/src/python.png" width ="35px" height="35px">
-          <img src = "../src/cpp.png" width ="35px" height="35px">
+          <img src = "src/java.png" width ="35px" height="35px">
+          <img src = "src/python.png" width ="35px" height="35px">
+          <img src = "src/cpp.png" width ="35px" height="35px">
         </td>
         <td  align = "center">
-          <img src = "../src/mongodb.png" width ="35px" height="35px">
+          <img src = "src/mongodb.png" width ="35px" height="35px">
         </td>
         <td  align = "center">
           <img src = "../src/springboot.png" width ="35px" height="35px">
