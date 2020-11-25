@@ -6,7 +6,7 @@
     <thead>
     <tr>
       <th>Languages</th>
-      <th>Databses</th>
+      <th>Databases</th>
       <th>Frameworks</th>
       <th>Web</th>
     </tr>
