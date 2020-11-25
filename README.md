@@ -28,9 +28,9 @@
           <img src = "src/react (1).png" width ="35px" height="35px">
         </td>
         <td align = "center">
-          <img src = "src/html (1).png" width ="35px" height="35px">
-          <img src = "src/css (1).png" width ="35px" height="35px">
-          <img src = "src/javascript (1).png" width ="35px" height="35px">
+          <img src = "src/html.png" width ="35px" height="35px">
+          <img src = "src/css.png" width ="35px" height="35px">
+          <img src = "src/javascript.png" width ="35px" height="35px">
         </td>
       </tr>
     </tbody>
