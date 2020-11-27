@@ -57,6 +57,10 @@
           <img src = "src/git (1).png" width ="35px" height="35px">
           <img src = "src/terminal (1).png" width ="35px" height="35px">
         </td>
+        <td  align = "center">
+          <img src = "src/kubernetes.png" width ="35px" height="35px">
+          <img src = "src/docker.png" width ="35px" height="35px">
+        </td>
       </tr>
     </tbody>
   </table>
