@@ -48,7 +48,7 @@
         <td align = "center">
           <img src = "src/intellij (1).png" width ="35px" height="35px">
           <img src = "src/pycharm (1).png" width ="35px" height="35px">
-          <img src = "src/vscode (1).png" width ="35px" height="35px">
+          <img src = "src/vscode (1).svg" width ="35px" height="35px">
         </td>
         <td align = "center">
           <img src = "src/sublime (1).png" width ="35px" height="35px">
