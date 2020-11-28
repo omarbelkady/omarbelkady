@@ -17,6 +17,7 @@
           <img src = "src/cpp.png" width ="35px" height="35px">
           <img src = "src/java (1).png" width ="35px" height="35px">
           <img src = "src/python (1).png" width ="35px" height="35px">
+          <img src = "src/C-Sharp (1).png" width ="35px" height="35px">
         </td>
         <td  align = "center">
           <img src = "src/mongodb (1).png" width ="35px" height="35px">
@@ -59,6 +60,7 @@
         <td  align = "center">
           <img src = "src/git (1).png" width ="35px" height="35px">
           <img src = "src/terminal (1).png" width ="35px" height="35px">
+          <img src = "src/typescript (1).png" width ="35px" height="35px">
         </td>
         <td  align = "center">
           <img src = "src/kubernetes.png" width ="40px" height="36px">
