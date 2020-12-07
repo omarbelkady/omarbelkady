@@ -14,8 +14,8 @@
     <tbody>
       <tr>
         <td align = "center">
-          <img src = "src/cpp.png" width ="35px" height="35px">
-          <img src = "src/java (1).png" width ="35px" height="35px">
+          <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width ="35px" height="35px">
+          <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width ="35px" height="35px">
           <img src = "src/python (1).png" width ="35px" height="35px">
           <img src = "src/C-Sharp (1).png" width ="35px" height="35px">
         </td>
@@ -24,9 +24,9 @@
         </td>
         <td  align = "center">
           <img src = "src/springboot (1).png" width ="35px" height="35px">
-          <img src = "src/express (1).png" width ="35px" height="35px">
-          <img src = "src/vuejs (1).png" width ="35px" height="35px">
-          <img src = "src/react (1).png" width ="35px" height="35px">
+          <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width ="35px" height="35px">
+          <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width ="35px" height="35px">
+          <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width ="35px" height="35px">
           <img src = "src/nodejs.png" width ="35px" height="35px">
         </td>
         <td align = "center">
@@ -63,8 +63,8 @@
           <img src = "src/typescript (1).png" width ="35px" height="35px">
         </td>
         <td  align = "center">
-          <img src = "src/kubernetes.png" width ="40px" height="36px">
-          <img src = "src/docker.png" width ="40px" height="36px">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" width="40" height="40>
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" width="40" height="40" />
         </td>
       </tr>
     </tbody>
