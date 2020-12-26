@@ -73,5 +73,15 @@
     </tbody>
   </table>
 <div align = "center">
+</div>
+<br>
+ <br />
+
+<!-- If you forked this repo, Change the username as yours -->
+<a href="https://github.com/omarbelkady/omarbelkady">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omarbelkady&show_icons=true&theme=dark"/>
+
+<a href="https://github.com/alanngo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&hide=typescript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
