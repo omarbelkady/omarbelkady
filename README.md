@@ -1,7 +1,7 @@
 <div align = "center">
 
 # 💻 Hey There, I am Omar 💻
-
+![](https://visitor-badge.laobi.icu/badge?page_id=omarbelkady.omarbelkady)
   <table align ="center">
     <thead>
     <tr>
