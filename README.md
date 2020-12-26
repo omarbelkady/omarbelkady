@@ -2,7 +2,7 @@
 
 # 💻 Hey There, I am Omar 💻
 ![](https://visitor-badge.laobi.icu/badge?page_id=omarbelkady.omarbelkady)
-  <table align ="center">
+  <table align ="center" theme=dark>
     <thead>
     <tr>
       <th>Languages</th>
