@@ -27,7 +27,7 @@
           <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width ="35px" height="35px">
           <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width ="35px" height="35px">
           <img src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width ="35px" height="35px">
-          <img src = "src/nodejs.png" width ="35px" height="35px">
+          <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width ="35px" height="35px">
         </td>
         <td align = "center">
           <img src = "src/html.png" width ="35px" height="35px">
