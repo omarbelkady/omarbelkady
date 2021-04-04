@@ -8,18 +8,6 @@
       <th>Languages</th>
       <th>Databases</th>
       <th>Frameworks</th>
-      <th>Web</th>```
-
-<div align = "center">
-
-# 💻 Hey There, I am Omar 💻
-![](https://visitor-badge.laobi.icu/badge?page_id=omarbelkady.omarbelkady)
-  <table align ="center">
-    <thead>
-    <tr>
-      <th>Languages</th>
-      <th>Databases</th>
-      <th>Frameworks</th>
       <th>Web</th>
     </tr>
     </thead>
