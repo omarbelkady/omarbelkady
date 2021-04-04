@@ -10,8 +10,6 @@
       <th>Frameworks</th>
       <th>Web</th>```
 
-```
-
 <div align = "center">
 
 # 💻 Hey There, I am Omar 💻
