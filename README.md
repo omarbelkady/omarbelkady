@@ -85,52 +85,6 @@
 
 <a href="https://github.com/alanngo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&hide=typescript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
- 
-### Programming Concepts
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=Programming-Basics&theme=tokyonight)
-### FrontEnd:
-<div align="left">
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=AngularJS&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=ReactJS&theme=tokyonight)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=VueJS&theme=tokyonight)
-</div>
-## Backend/Server-Side
-<div align="right">
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=NodeJS&theme=tokyonight)
-](https://www.github.com/omarbelkady/NodeJS)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=Java&theme=tokyonight)
-](https://www.github.com/omarbelkady/Java)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=CPP&theme=tokyonight)
-](https://www.github.com/omarbelkady/CPP)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=C-Sharp&theme=tokyonight)
-](https://www.github.com/omarbelkady/CSharp)
-</div>
-
-
-## Linux/Bash
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=ShellScripts&theme=tokyonight)](https://github.com/omarbelkady/ShellScripts)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=LinuxTerminalBash&theme=tokyonight)](https://github.com/omarbelkady/LinuxTerminalBash)
-
-## DevOps
-### Docker & K8s
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=devops&theme=tokyonight)](https://github.com/omarbelkady/devops)
-
-## Database
-### MongoDB
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=mongodb&theme=tokyonight)](https://www.github.com/omarbelkady/mongodb)
-
-### SQL&NoSQL
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=sql&theme=tokyonight)](https://www.github.com/omarbelkady/sql)
-
-
     </tr>
     </thead>
     <tbody>
