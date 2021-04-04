@@ -9,7 +9,7 @@
       <th>Databases</th>
       <th>Frameworks</th>
       <th>Web</th>```
-Java, Python, C-Sharp, CPP, Mongo, Express, Angular, ReactJS, VueJS, NodeJS, CSS, Typescript, ElectronJS
+
 ```
 
 <div align = "center">
