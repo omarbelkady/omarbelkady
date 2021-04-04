@@ -89,12 +89,14 @@
 ### Programming Concepts
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=Programming-Basics&theme=tokyonight)
 ### FrontEnd:
+<div align="left">
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=AngularJS&theme=tokyonight)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=ReactJS&theme=tokyonight)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=VueJS&theme=tokyonight)
-
+</div>
 ## Backend/Server-Side
+<div align="right">
 [
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=NodeJS&theme=tokyonight)
 ](https://www.github.com/omarbelkady/NodeJS)
@@ -107,7 +109,7 @@
 [
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omarbelkady&repo=C-Sharp&theme=tokyonight)
 ](https://www.github.com/omarbelkady/CSharp)
-
+</div>
 
 
 ## Linux/Bash
@@ -205,5 +207,4 @@
 
 <a href="https://github.com/alanngo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&hide=typescript,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
 
