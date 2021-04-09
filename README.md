@@ -81,4 +81,4 @@
  <!-- If you forked this repo, Change the username as yours -->
 <a href="https://github.com/omarbelkady">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omarbelkady&show_icons=true&theme=highcontrast"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&hide=css,c%23	&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&hide=c%23,css	&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
