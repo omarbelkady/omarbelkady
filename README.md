@@ -75,16 +75,12 @@
       </tr>
     </tbody>
   </table>
-<div align = "center">
-</div>
 <br>
  <br />
  <!-- If you forked this repo, Change the username as yours -->
 <a href="https://github.com/omarbelkady">
-  <p align="center">
-  <img align="" height='190px' width='460px' src="https://github-readme-stats.vercel.app/api?username=omarbelkady&show_icons=true&theme=highcontrast" alt="omarbelkady" />
-  <img align="" height='180px'  width='430px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&layout=compact&theme=gotham" />
+  <img align="center" height='190px' width='460px' src="https://github-readme-stats.vercel.app/api?username=omarbelkady&show_icons=true&theme=highcontrast" alt="omarbelkady" />
+  <img align="center" height='180px'  width='430px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&layout=compact&theme=gotham" />
   <!--<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&hide=c%23,css	&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
-  </p>
-
+</div>
 
