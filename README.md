@@ -89,10 +89,10 @@
   ![Metrics](https://metrics.lecoq.io/omarbelkady?template=terminal&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&projects=1&stars=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&projects.limit=96&stars.limit=4&config.timezone=Africa%2FCasablanca)
 </div>
 
-
+<div align = "center">
 ## → Social Media Links
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarbelkady/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-belkady/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omarbelkady/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/OmarB98148057)
-
+  </div>
