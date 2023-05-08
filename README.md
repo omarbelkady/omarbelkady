@@ -1,4 +1,5 @@
 
+
 <div align = "center">
 
 # 💻 Hey There, I am Omar, Double Majoring in Finance & 💻 Engineering 💻 
@@ -85,12 +86,14 @@
   <img align="center" height='190px' width='460px' src="https://github-readme-stats.vercel.app/api?username=omarbelkady&show_icons=true&theme=highcontrast" alt="omarbelkady" />
   <img align="center" height='180px'  width='430px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&layout=compact&theme=gotham" />
   <!--<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarbelkady&hide=c%23,css	&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
-   <img align="center" height='190px' width='460px' src="https://github-readme-streak-stats.herokuapp.com/?user=omarbelkady&theme=radical&count_private=true" alt="Omar Belady" />
+  
   <br>
   ![Metrics](https://metrics.lecoq.io/omarbelkady?template=terminal&followup=1&isocalendar=1&languages=1&pagespeed=1&posts=1&projects=1&stars=1&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=full-year&projects.limit=96&stars.limit=4&config.timezone=Africa%2FCasablanca)
 </div>
 
 
-## → Social Media Links
+## → Setup
+<img align="center" height='300px' width='700px' src="https://user-images.githubusercontent.com/31806568/236808880-f8336f60-511b-48c9-8c00-7f7cc8fcdec1.jpg" />
 
+- https://pcpartpicker.com/list/pF8NKp
 
