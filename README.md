@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-# 💻 Hey There, I am Omar, Double Majoring in Finance & 💻 Engineering 💻 
+# 💻 Hey There, I am Omar, majoring in CE 💻 
 <p align="middle">
   <img width="600" src="https://github-profile-trophy.vercel.app/?username=omarbelkady&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
 </p>
